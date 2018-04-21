@@ -1,4 +1,4 @@
-# brilliance-dull-theme-emacs
+# Brilliance Dull Theme
 
 Be warned, this theme changes spacemacs and powerline faces.
 
